@@ -1,3 +1,7 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d714dde9-4a68-4a9d-ba7e-63d5cf27d0ac" />
+
+
+
 # My-Webapp DevOps Project by CI-CD pipeline
 
 This repository contains a simple Python Flask web application with a complete DevOps pipeline including:
